@@ -1,0 +1,19 @@
+org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+Sample.groovy: 3: Morally wrong to use a single letter property @ line 3, column 3.
+     int b
+     ^
+
+Sample.groovy: 2: Better name for field 'a' please @ line 2, column 3.
+     private int a
+     ^
+
+Sample.groovy: 3: Better name for field 'b' please @ line 3, column 3.
+     int b
+     ^
+
+Sample.groovy: 6: Really, a single letter method? @ line 6, column 3.
+     public void f() { }
+     ^
+
+4 errors
+

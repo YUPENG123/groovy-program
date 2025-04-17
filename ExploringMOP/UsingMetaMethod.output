@@ -1,0 +1,4 @@
+HELLO
+Does String respond to toUpperCase()? yes
+Does String respond to compareTo(String)? yes
+Does String respond to toUpperCase(int)? no

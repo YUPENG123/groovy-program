@@ -1,0 +1,10 @@
+MetaClass of 2 is HandleMetaClass with delegate MetaClassImpl
+MetaClass of Integer is HandleMetaClass
+Adding a method to Integer metaClass
+MetaClass of 2 is HandleMetaClass with delegate ExpandoMetaClass
+MetaClass of Integer is ExpandoMetaClass
+MetaClass of MyClass(obj1) is HandleMetaClass with delegate MetaClassImpl
+Adding a method to MyClass metaClass
+MetaClass of MyClass(obj1) is HandleMetaClass with delegate MetaClassImpl
+obj2 created later
+MetaClass of MyClass(obj2) is HandleMetaClass with delegate ExpandoMetaClass

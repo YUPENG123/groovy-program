@@ -1,0 +1,7 @@
+java.util.LinkedHashMap
+Gosling
+Stroustrup
+Gosling
+java.lang.NullPointerException: Cannot invoke method next() on null object
+Stroustrup
+[C++:Stroustrup, Java:Gosling, Lisp:McCarthy]

@@ -1,0 +1,9 @@
+James knows C++, Java, Groovy
+Sara knows Perl, Java, Ruby
+Nick knows Groovy, Perl, Ruby
+
+C++ is used by James
+Java is used by James, Sara
+Groovy is used by James, Nick
+Perl is used by Sara, Nick
+Ruby is used by Sara, Nick

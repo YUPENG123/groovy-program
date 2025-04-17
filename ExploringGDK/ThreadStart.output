@@ -1,0 +1,4 @@
+Main Thread is Thread[main,5,main]. Daemon? false
+Started Thread is Thread[Thread-1,5,main]. Daemon? false
+Started Daemon Thread is Thread[Thread-2,5,main]. Daemon? true
+Finished Started

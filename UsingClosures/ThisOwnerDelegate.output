@@ -1,0 +1,10 @@
+In First Closure:
+class is ThisOwnerDelegate$_run_closure1
+this is ThisOwnerDelegate@55e6cb2a, super:groovy.lang.Script
+owner is ThisOwnerDelegate@55e6cb2a, super:groovy.lang.Script
+delegate is ThisOwnerDelegate@55e6cb2a, super:groovy.lang.Script
+In Closure within the First Closure:
+class is ThisOwnerDelegate$_run_closure1_closure2
+this is ThisOwnerDelegate@55e6cb2a, super:groovy.lang.Script
+owner is ThisOwnerDelegate$_run_closure1@15c330aa, super:groovy.lang.Closure
+delegate is ThisOwnerDelegate$_run_closure1@15c330aa, super:groovy.lang.Closure

@@ -1,0 +1,5 @@
+Robot iRobot operating...
+move distance... 20
+turn left... 90 degrees
+move distance... 50
+java.lang.RuntimeException: 'forward' doesn't support nesting.

@@ -1,0 +1,6 @@
+access called
+Caught: groovy.lang.MissingMethodException: No signature of method: MapParameterCheck.access() is applicable for argument types: (java.lang.Integer, java.lang.Integer, java.lang.Integer) values: [4, 5, 6]
+Possible solutions: access(java.util.Map, java.lang.Object, java.lang.Object)
+groovy.lang.MissingMethodException: No signature of method: MapParameterCheck.access() is applicable for argument types: (java.lang.Integer, java.lang.Integer, java.lang.Integer) values: [4, 5, 6]
+Possible solutions: access(java.util.Map, java.lang.Object, java.lang.Object)
+	at MapParameterCheck.run(MapParameterCheck.groovy:7)

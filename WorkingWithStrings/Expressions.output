@@ -1,0 +1,9 @@
+He paid $12 for that.
+The cow jumped over the fence
+The cow jumped over the moon
+class: org.codehaus.groovy.runtime.GStringImpl
+superclass: groovy.lang.GString
+class: org.codehaus.groovy.runtime.GStringImpl
+superclass: groovy.lang.GString
+class: java.lang.String
+superclass: java.lang.Object

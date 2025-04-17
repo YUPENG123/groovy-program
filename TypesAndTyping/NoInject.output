@@ -1,0 +1,8 @@
+org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+/Users/venkats/books/vslg2/Book/code/TypesAndTyping/NoInject.groovy: 4: [Static type checking] - Cannot find matching method java.lang.String#shout(). Please check if the declared type is right and if the method exists.
+ @ line 4, column 11.
+     println str.shout() //Fails at compile time
+             ^
+
+1 error
+

@@ -1,0 +1,6 @@
+I'm Jack of all trades... I can sing
+I'm Jack of all trades... I can dance
+I'm Jack of all trades... I can juggle
+groovy.lang.MissingMethodException: 
+  No signature of method: Person.sing() 
+  is applicable for argument types: () values: []

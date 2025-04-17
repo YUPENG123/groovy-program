@@ -1,0 +1,11 @@
+<languages>
+  <language name='C++'>
+    <author>Stroustrup</author>
+  </language>
+  <language name='Java'>
+    <author>Gosling</author>
+  </language>
+  <language name='Lisp'>
+    <author>McCarthy</author>
+  </language>
+</languages>

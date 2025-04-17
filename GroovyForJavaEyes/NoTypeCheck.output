@@ -1,0 +1,9 @@
+org.codehaus.groovy.runtime.typehandling.GroovyCastException: 
+Cannot cast object 'hello' with class 'java.lang.String' 
+to class 'java.lang.Integer'
+groovy.lang.MissingMethodException: 
+No signature of method: java.lang.Integer.blah() is applicable 
+for argument types: () values: []
+Possible solutions: each(groovy.lang.Closure), with(groovy.lang.Closure), 
+plus(java.lang.Character), plus(java.lang.String), plus(java.lang.Number), 
+wait()

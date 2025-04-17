@@ -1,0 +1,8 @@
+Static type checking] - Cannot find matching method java.lang.String#toUppercase(). 
+Please check if the declared type is right and if the method exists.
+ @ line 10, column 11.
+     println str.toUppercase()
+             ^
+
+1 error
+

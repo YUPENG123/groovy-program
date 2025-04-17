@@ -1,0 +1,4 @@
+moduleName=price-module
+moduleVersion=1.0-test
+extensionClasses=com.agiledeveloper.PriceExtension
+staticExtensionClasses=com.agiledeveloper.PriceStaticExtension

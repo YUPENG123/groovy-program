@@ -1,0 +1,14 @@
+org.codehaus.groovy.control.MultipleCompilationErrorsException: 
+  startup failed:
+smelly.groovy: 1: Single letter parameters are morally wrong! @ 
+  line 1, column 13.
+   def canVote(a) {
+               ^
+
+smelly.groovy: 5: Make method name descriptive, avoid single letter names @ 
+  line 5, column 1.
+   def p(instance) {
+   ^
+
+2 errors
+

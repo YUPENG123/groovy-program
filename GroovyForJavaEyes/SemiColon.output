@@ -1,0 +1,7 @@
+Caught: groovy.lang.MissingMethodException: 
+No signature of method: java.lang.Integer.call() 
+is applicable for argument types: (Semi$_closure1) 
+values: {Semi$_closure1@be513c}
+  at Semi.<init>(SemiColon.groovy:3)
+  at SemiColon.run(SemiColon.groovy:10)
+  at SemiColon.main(SemiColon.groovy)

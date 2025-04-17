@@ -1,0 +1,22 @@
+>javap -c Hello
+Compiled from "Hello.groovy"
+public class Hello extends groovy.lang.Script{
+public static java.lang.Long __timeStamp;
+
+public static java.lang.Long __timeStamp__239_neverHappen1196864030690;
+
+static java.lang.Class class$groovy$lang$MetaClass;
+
+static java.lang.Class class$0;
+
+static java.lang.Class class$groovy$lang$GroovyObject;
+
+static java.lang.Class class$org$codehaus$groovy$runtime$InvokerHelper;
+
+static java.lang.Class class$groovy$lang$Script;
+
+public Hello();
+  Code:
+   0:	aload_0
+... 404 more lines not shown here ...
+

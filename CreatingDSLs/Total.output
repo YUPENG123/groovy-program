@@ -1,0 +1,3 @@
+Total is 14
+groovy.lang.MissingPropertyException: 
+  No such property: total for class: Total

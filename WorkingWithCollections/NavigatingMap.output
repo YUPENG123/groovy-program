@@ -1,0 +1,18 @@
+Language C++ was authored by Stroustrup
+Language Java was authored by Gosling
+Language Lisp was authored by McCarthy
+Language C++ was authored by Stroustrup
+Language Java was authored by Gosling
+Language Lisp was authored by McCarthy
+[CPP, Java, Lisp]
+Looking for the first language with name greater than 3 characters
+Found Java written by Gosling
+Looking for all languages with name greater than 3 characters
+Found Java written by Gosling
+Found Lisp written by McCarthy
+Does any language name have a nonalphabetic character? true
+Do all language names have a nonalphabetic character? false
+Brian : Brian Goetz, Brian Sletten
+David : David Bock, David Geary
+Scott : Scott Davis, Scott Leberknight
+Stuart : Stuart Halloway

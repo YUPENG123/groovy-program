@@ -1,0 +1,36 @@
+weatherinfo
+City                Temperature
+Austin              48
+Baton Rouge         57
+Jackson             50
+Montgomery          53
+Phoenix             67
+Sacramento          66
+Santa Fe            27
+Tallahassee         59
+<weather>
+  <city name='Austin' temperature='48' />
+  <city name='Baton Rouge' temperature='57' />
+  <city name='Jackson' temperature='50' />
+  <city name='Montgomery' temperature='53' />
+  <city name='Phoenix' temperature='67' />
+  <city name='Sacramento' temperature='66' />
+  <city name='Santa Fe' temperature='27' />
+  <city name='Tallahassee' temperature='59' />
+</weather>
+city                 temperature          
+Austin               48
+Baton Rouge          57
+Jackson              50
+Montgomery           53
+Phoenix              67
+Sacramento           66
+Santa Fe             27
+Tallahassee          59
+Weather info available for 8 cities
+java.util.ArrayList
+Cities below freezing:
+Santa Fe
+Number of cities : 8
+Number of cities : 9
+[temperature:50]

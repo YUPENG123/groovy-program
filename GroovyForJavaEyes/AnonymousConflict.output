@@ -1,0 +1,8 @@
+org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+.../code/GroovyForJavaEyes/AnonymousConflict.groovy: 
+2: unexpected token: println @ line 2, column 3.
+     println "the calculation provided"
+     ^
+
+1 error
+

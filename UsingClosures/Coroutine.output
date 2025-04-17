@@ -1,0 +1,10 @@
+Calling iterate
+In iterate with value 1
+In closure total so far is 1
+In iterate with value 2
+In closure total so far is 3
+In iterate with value 3
+In closure total so far is 6
+In iterate with value 4
+In closure total so far is 10
+Done

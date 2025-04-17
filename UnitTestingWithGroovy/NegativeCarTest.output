@@ -1,0 +1,11 @@
+...F
+Time: 0.004
+There was 1 failure:
+1) testDriveNegativeInput(CarTest)
+  junit.framework.AssertionFailedError: 
+  expected:<0> but was:<-10>
+
+...
+
+FAILURES!!!
+Tests run: 3,  Failures: 1,  Errors: 0

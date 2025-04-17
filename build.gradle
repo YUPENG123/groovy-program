@@ -1,0 +1,27 @@
+task runtests << {
+  runTests()
+}
+
+defaultTasks 'runtests'
+
+def runTests() {
+  new File(System.getProperty('user.dir')).eachDirRecurse {
+   if(new File(it.path + "/RunTest.groovy").exists()) runTestsIn(it)
+  }
+}
+
+def runTestsIn(dir) {
+  if (dir.path.endsWith('Windows')) return
+
+  //println "Running tests in ${dir}"
+  def testbasedir = System.getProperty('user.dir')
+  def process = "groovy -classpath $testbasedir RunTest.groovy".execute(null, dir)
+  def result = process.text
+  def testRunDots = result.split('Time')[0].replace('\n', '')
+ 
+  def pattern = ~"[.]+"
+  if(!(testRunDots ==~ pattern)) {
+    println "ERROR running tests in $dir"
+    println testRunDots
+  }
+}

@@ -1,0 +1,8 @@
+org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+/Users/venkats/books/vslg2/Book/code/GroovyForJavaEyes/Private.groovy: 7: cannot modify final field 'year' outside of constructor.
+ @ line 7, column 7.
+         year = 2000
+         ^
+
+1 error
+

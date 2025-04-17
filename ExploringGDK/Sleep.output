@@ -1,0 +1,9 @@
+Thread started
+Let's interrupt that thread
+Thread done in 2.000272 seconds
+Thread started
+Interrupted... java.lang.InterruptedException: sleep interrupted
+Thread done in 0.00437 seconds
+Thread started
+Interrupted... java.lang.InterruptedException: sleep interrupted
+Thread done in 1.999077 seconds

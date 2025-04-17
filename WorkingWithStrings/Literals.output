@@ -1,0 +1,8 @@
+He said, "That is Groovy"
+java.lang.String
+The value is ${value}
+l
+groovy.lang.MissingMethodException: No signature of method: 
+  java.lang.String.putAt() is applicable for argument types: 
+  (java.lang.Integer, java.lang.String) values: [2, !]
+...

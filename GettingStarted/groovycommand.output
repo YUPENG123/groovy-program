@@ -1,0 +1,5 @@
+> cat Hello.groovy 
+println "Hello Groovy!"
+> groovy Hello
+Hello Groovy!
+> 

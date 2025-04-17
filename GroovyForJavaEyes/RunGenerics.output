@@ -1,0 +1,10 @@
+List populated
+1
+2
+Caught: org.codehaus.groovy.runtime.typehandling.GroovyCastException: 
+Cannot cast object 'hello' with class 'java.lang.String' to class 'int'
+org.codehaus.groovy.runtime.typehandling.GroovyCastException: 
+Cannot cast object 'hello' with class 'java.lang.String' to class 'int'
+	at Generics.main(Generics.java:12)
+	at Generics.invokeMethod(Generics.java)
+	at RunGenerics.run(RunGenerics.groovy:1)

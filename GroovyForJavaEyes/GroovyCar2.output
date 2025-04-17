@@ -1,0 +1,8 @@
+Year: 2012
+getMiles called
+Miles: 0
+Driving
+getMiles called
+Miles: 10
+Can I set the year? Cannot set readonly property: year for class: Car
+Can I set the miles? you're not allowed to change miles

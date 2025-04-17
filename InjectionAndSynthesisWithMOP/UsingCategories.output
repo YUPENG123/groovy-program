@@ -1,0 +1,13 @@
+123-45-6789
+987-65-4321
+No signature of method: java.lang.String.toSSN()
+  is applicable for argument types: () values: []
+Possible solutions: toSet(), toSet(), toURI(), 
+  toURL(), toURL(), toURI()
+123-45-6789
+123-45-6789
+987-65-4321
+54
+123-48-7651
+181
+!!hello!!

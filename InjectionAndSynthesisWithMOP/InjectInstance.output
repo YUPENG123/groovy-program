@@ -1,0 +1,10 @@
+oh baby baby...
+groovy.lang.MissingMethodException: 
+  No signature of method: Person.sing() 
+  is applicable for argument types: () values: []
+Possible solutions: find(), find(groovy.lang.Closure), 
+  is(java.lang.Object), any(), print(java.lang.Object), 
+  print(java.io.PrintWriter)
+playing...
+groovy.lang.MissingMethodException: 
+  No signature of method: Person.sing() is applicable ...

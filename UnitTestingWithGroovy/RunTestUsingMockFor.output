@@ -1,0 +1,6 @@
+.F
+Time: 0.093
+There was 1 failure:
+1) testMethod1(TestUsingStubFor)junit.framework.AssertionFailedError: 
+verify[1]: expected 1..1 call(s) to 'close' but was never called.
+

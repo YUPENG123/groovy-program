@@ -1,0 +1,127 @@
+usage: svn <subcommand> [options] [args]
+Subversion command-line client, version 1.6.16.
+Type 'svn help <subcommand>' for help on a specific subcommand.
+Type 'svn --version' to see the program version and RA modules
+  or 'svn --version --quiet' to see just the version number.
+
+Most subcommands take file and/or directory arguments, recursing
+on the directories.  If no arguments are supplied to such a
+command, it recurses on the current directory (inclusive) by default.
+
+Available subcommands:
+   add
+   blame (praise, annotate, ann)
+   cat
+   changelist (cl)
+   checkout (co)
+   cleanup
+   commit (ci)
+   copy (cp)
+   delete (del, remove, rm)
+   diff (di)
+   export
+   help (?, h)
+   import
+   info
+   list (ls)
+   lock
+   log
+   merge
+   mergeinfo
+   mkdir
+   move (mv, rename, ren)
+   propdel (pdel, pd)
+   propedit (pedit, pe)
+   propget (pget, pg)
+   proplist (plist, pl)
+   propset (pset, ps)
+   resolve
+   resolved
+   revert
+   status (stat, st)
+   switch (sw)
+   unlock
+   update (up)
+
+Subversion is a tool for version control.
+For additional information, see http://subversion.tigris.org/
+
+java.lang.UNIXProcess
+total 600
+-rw-r--r--  1 venkats  staff   234 Jan 31 09:17 Activity.groovy
+-rw-r--r--  1 venkats  staff   307 Jan 31 09:17 ActivityWorkaround.groovy
+-rw-r--r--  1 venkats  staff    31 Jan 13 15:45 ActivityWorkaround.output
+-rw-r--r--  1 venkats  staff   352 Jan 31 09:17 AgileMethodologies.groovy
+-rw-r--r--  1 venkats  staff   111 Jan 13 15:45 AgileMethodologies.output
+-rw-r--r--  1 venkats  staff    83 Jan 31 09:17 ArrayInGroovy.groovy
+-rw-r--r--  1 venkats  staff    28 Jan 13 15:45 ArrayInGroovy.output
+-rw-r--r--  1 venkats  staff   167 Jan 31 09:15 ArrayInJava.java
+-rw-r--r--  1 venkats  staff   130 Jan 31 09:30 AuthorInfo.groovy
+-rw-r--r--  1 venkats  staff   190 Jan 31 09:15 Block.java
+-rw-r--r--  1 venkats  staff   389 Jan 31 09:17 Bool.groovy
+-rw-r--r--  1 venkats  staff   214 Jan 31 09:15 Bool.java
+-rw-r--r--  1 venkats  staff   112 Jan 13 15:45 Bool.output
+-rw-r--r--  1 venkats  staff   568 Jan 31 09:15 Car.java
+-rw-r--r--  1 venkats  staff    44 Jan 13 15:45 Car.output
+-rw-r--r--@ 1 venkats  staff   102 Jan 31 09:15 ClassWithDeprecation.java
+-rw-r--r--  1 venkats  staff   149 Jan 31 09:16 ClassWithOverride.java
+-rw-r--r--  1 venkats  staff    48 Jan 13 15:45 CompileGenerics.groovy
+-rw-r--r--  1 venkats  staff   172 Jan 13 15:45 CompileGenerics.output
+-rw-r--r--  1 venkats  staff   119 Jan 31 09:17 Ease.groovy
+-rw-r--r--  1 venkats  staff    10 Jan 13 15:45 Ease.output
+-rw-r--r--  1 venkats  staff   317 Jan 31 09:17 Equals.groovy
+-rw-r--r--  1 venkats  staff   120 Jan 13 15:45 Equals.output
+-rw-r--r--  1 venkats  staff   427 Jan 31 09:17 ExceptionHandling.groovy
+-rw-r--r--@ 1 venkats  staff   514 Jan 13 15:45 Execute.groovy
+-rw-r--r--@ 1 venkats  staff  1216 Jan 31 10:08 Execute.output
+-rw-r--r--  1 venkats  staff   483 Jan 31 09:57 ExecuteProcess.groovy
+-rw-r--r--  1 venkats  staff   194 Jan 31 09:18 ForEach.groovy
+-rw-r--r--  1 venkats  staff   254 Jan 31 09:16 ForEach.java
+-rw-r--r--  1 venkats  staff   697 Jan 31 09:16 Generics.java
+-rw-r--r--@ 1 venkats  staff   203 Jan 31 09:18 Greetings.groovy
+-rw-r--r--  1 venkats  staff    23 Jan 13 15:45 Greetings.output
+-rw-r--r--  1 venkats  staff   235 Jan 31 09:19 GroovyCar.groovy
+-rw-r--r--  1 venkats  staff    44 Jan 13 15:45 GroovyCar.output
+-rw-r--r--  1 venkats  staff   530 Jan 31 09:19 GroovyCar2.groovy
+-rw-r--r--  1 venkats  staff    98 Jan 30 11:19 GroovyCar2.output
+-rw-r--r--  1 venkats  staff    38 Jan 13 15:45 JavaArrayInGroovy.groovy
+-rw-r--r--  1 venkats  staff    94 Jan 31 09:19 LightGreetings.groovy
+-rw-r--r--  1 venkats  staff    55 Jan 13 15:45 LighterGreetings.groovy
+-rw-r--r--  1 venkats  staff   498 Jan 31 09:19 NamedParameters.groovy
+-rw-r--r--  1 venkats  staff    72 Jan 30 11:21 NamedParameters.output
+-rw-r--r--  1 venkats  staff   524 Jan 31 09:19 NoTypeCheck.groovy
+-rw-r--r--@ 1 venkats  staff   522 Jan 30 18:37 NoTypeCheck.output
+-rw-r--r--  1 venkats  staff   585 Jan 13 15:45 NoTypeCheckByteCode.output
+-rw-r--r--  1 venkats  staff    39 Jan 13 15:45 NotInt.groovy
+-rw-r--r--  1 venkats  staff    18 Jan 13 15:45 NotInt.output
+-rw-r--r--  1 venkats  staff   786 Jan 31 09:20 OperatorOverloading.groovy
+-rw-r--r--  1 venkats  staff   146 Jan 30 11:42 OperatorOverloading.output
+-rw-r--r--@ 1 venkats  staff   479 Jan 31 09:20 OptionalParameters.groovy
+-rw-r--r--@ 1 venkats  staff   203 Jan 30 11:09 OptionalParameters.output
+-rw-r--r--  1 venkats  staff   350 Jan 13 15:45 Rakefile
+-rw-r--r--  1 venkats  staff   717 Jan 31 09:20 ReturnGotchas.groovy
+-rw-r--r--  1 venkats  staff   202 Jan 30 12:09 ReturnGotchas.output
+-rw-r--r--  1 venkats  staff    53 Jan 13 15:45 RunGenerics.groovy
+-rw-r--r--  1 venkats  staff   430 Jan 30 18:41 RunGenerics.output
+-rw-r--r--@ 1 venkats  staff  8688 Jan 31 10:08 RunTest.groovy
+-rw-r--r--  1 venkats  staff   105 Jan 31 09:22 SemiColon.groovy
+-rw-r--r--  1 venkats  staff   294 Jan 13 15:45 SemiColon.output
+-rw-r--r--  1 venkats  staff   247 Jan 31 09:16 Sleep.java
+-rw-r--r--  1 venkats  staff   177 Jan 30 10:47 Static.groovy
+-rw-r--r--  1 venkats  staff   342 Jan 13 15:45 StaticImportExample.groovy
+-rw-r--r--@ 1 venkats  staff  1296 Jan 31 09:22 Swing.groovy
+-rw-r--r--  1 venkats  staff   596 Jan 31 09:17 Swing.java
+-rw-r--r--  1 venkats  staff   152 Jan 31 09:17 UseDeprecated.java
+-rw-r--r--  1 venkats  staff   638 Jan 31 09:22 UsingCoffeeSize.groovy
+-rw-r--r--  1 venkats  staff   239 Jan 30 14:26 UsingCoffeeSize.output
+-rw-r--r--  1 venkats  staff   208 Jan 13 15:45 UsingProperties.groovy
+-rw-r--r--  1 venkats  staff   169 Jan 31 09:22 VarArgs.groovy
+-rw-r--r--  1 venkats  staff    60 Jan 13 15:45 VarArgs.output
+-rw-r--r--  1 venkats  staff   647 Jan 31 09:23 WaysToLoop.groovy
+-rw-r--r--  1 venkats  staff   251 Jan 13 15:45 WaysToLoop.output
+-rw-r--r--  1 venkats  staff   285 Jan 31 09:23 WhatsEquals.groovy
+-rw-r--r--  1 venkats  staff    31 Jan 13 15:45 WhatsEquals.output
+drwxr-xr-x  5 venkats  staff   170 Jan 31 09:23 Windows
+
+Groovy Version: 2.1.1 JVM: 1.7.0_04-ea Vendor: Oracle Corporation OS: Mac OS X
+

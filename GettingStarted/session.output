@@ -1,0 +1,19 @@
+> groovysh 
+Groovy Shell (2.1.1, JVM: 1.7.0_04-ea)
+Type 'help' or '\h' for help.
+-------------------------------------------------
+groovy:000> Math.sqrt(16)
+===> 4.0
+groovy:000> println 'Test drive Groovy'
+Test drive Groovy
+===> null
+groovy:000> String.metaClass.isPalindrome = {
+groovy:001>   delegate == delegate.reverse()
+groovy:002> }
+===> groovysh_evaluate$_run_closure1@64b99636
+groovy:000> 'mom'.isPalindrome()
+===> true
+groovy:000> 'mom'.l
+
+lastIndexOf(   leftShift(     length()
+groovy:000> 'mom'.l
